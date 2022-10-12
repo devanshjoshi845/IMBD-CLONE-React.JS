@@ -1,0 +1,12 @@
+.header{
+ display: flex;
+ gap: 40px;
+align-items: center;
+margin: 5px 20px;
+font-size: 25px;
+
+}
+.header-img{
+ height: 50px;
+ width: 100px;
+}

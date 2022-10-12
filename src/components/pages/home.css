@@ -1,0 +1,47 @@
+.carousel-poste {
+  height: 500px;
+  width: 100%;
+
+}
+
+.carousel-img {
+  height: 500px;
+}
+.carousel {
+ position: relative;
+}
+.carousel-content {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  width: 900px;
+
+ top: 200px;
+  text-align: start;
+  position: absolute;
+  
+}
+.carousel-title {
+  font-size: 50px;
+  margin: 8px 100px;
+}
+.carousel-date {
+  font-size: 30px;
+  margin: 8px 100px;
+}
+.carousel-vote {
+  font-size: 25px;
+  margin: 8px 100px;
+}
+.carousel-overview {
+  width: 50%;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
