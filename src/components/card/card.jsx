@@ -61,9 +61,7 @@ let Cards = ({ movie }) => {
     <div className="cards">
       <img
         className="cards__img"
-        src={`https:image.tmdb.org/t/p/original${
-          movie ? movie.poster_path : ""
-        }`}
+        src={`https://image.tmdb.org/t/p/original${movie ? movie.poster_path : ""}`}
       />
       <div className="cards__overlay">
         <div className="card__title">
